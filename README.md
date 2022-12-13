@@ -1,11 +1,8 @@
-# Todo (Painel de tarefas)
-```
-Projeto painel de tarefas feito com VueJs, desafio do Curso da Udemy Curso: Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)
+# TODO 
 
-# Project setup
+Projeto painel de tarefas feito com VueJs, Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)
+## Instalação
+```sh
+npm install
+npm run serve
 
-# Execute o comando no terminal: 
-```
-1º - npm install
-```
-2º - npm run serve
