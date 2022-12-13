@@ -1,29 +1,7 @@
-# todoVue
+# Todo (Painel de tarefas)
+Projeto painel de tarefas feito com VueJs, desafio do Curso da Udemy Curso: Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)
+## Project setup
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Execute o comando no terminal: 
+1º - npm install
+2º - npm run serve
